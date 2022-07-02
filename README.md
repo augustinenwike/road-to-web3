@@ -9,3 +9,5 @@
 - Week-5 - Using Chainlink price feeds and keepers
 - Week-6 - Decentralized Staking
 - Week-7 - NFT Marketplace
+- Week-8 - Optimisim - Casino
+- Week-9 - Token Swap Dapp - https://api.0x.org
